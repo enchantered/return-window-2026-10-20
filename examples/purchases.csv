@@ -1,0 +1,5 @@
+id,item,retailer,purchased_on,return_by,status
+sample-001,Wireless headphones,Example Electronics,2026-10-01,2026-10-20,open
+sample-002,Ceramic mug,Sample Home Shop,2026-10-02,2026-10-27,open
+sample-003,Desk lamp,Demo Goods,2026-09-20,2026-10-12,open
+sample-004,Notebook,Example Stationery,2026-10-03,2026-10-24,returned

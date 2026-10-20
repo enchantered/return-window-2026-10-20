@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.ics
+*.pdf
+*.tmp
+*.log
+.venv/
+venv/
+# Local purchase data can contain sensitive information; keep synthetic examples tracked.
+*.csv
+!examples/*.csv
